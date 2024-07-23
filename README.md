@@ -1,4 +1,8 @@
-# HYY_rk3566_api
+# HYY RK3566 Device Android FrameWork API Interface Development Library
+
+## Instructions
+This development library supports rapid development of FrameWork functionality for apps; No need to integrate framework. jar; No system permissions required; A few simple lines of code can enrich the functionality of your app.
+
  <img src="./img/3566api.png" width="400" height="auto"/>
 
  <table>
